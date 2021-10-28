@@ -2,7 +2,7 @@
 
 
 - ♟️ Hoje trabalho como suporte técnico na SOLUTI
-- 🌱 Estou estudando docker
+- 🌱 Estou estudando docker, Webservices e Desenvolvimento mobile
 - ✔️ Atualmente me adaptando ao VScode 
 
   <div align="center">
