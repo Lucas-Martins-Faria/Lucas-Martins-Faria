@@ -1,7 +1,7 @@
 ### Olá! Bem vindo ao meu perfil do github 👋
 
 
-- ♟️ Hoje trabalho como suporte técnico na SOLUTI
+- ♟️ Hoje trabalho como técnico de infraestrutura na SOLUTI
 - 🌱 Estou estudando docker, Webservices e Desenvolvimento mobile
 - ✔️ Atualmente me adaptando ao VScode 
 
