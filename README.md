@@ -3,7 +3,7 @@
 
 - ♟️ Hoje trabalho como técnico de infraestrutura na SOLUTI
 - 🌱 Estou estudando docker, Webservices e Desenvolvimento mobile
-- ✔️ Atualmente me adaptando ao VScode 
+- ✔️ Buscando novos conteúdos
 
   <div align="center">
     <a href="https://github.com/Lucas-Martins-Faria">
